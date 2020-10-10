@@ -1,10 +1,8 @@
 # MVC_sample
----
 jsp's MVC Sample Project
 
 
 # Source Files Path
----
 ## Java files
 /src/tableName/tablenameDAO(DTO).java
 
