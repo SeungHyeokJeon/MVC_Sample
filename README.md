@@ -4,7 +4,7 @@ jsp's MVC Sample Project
 
 # Source Files Path
 ## Java files
-/src/tableName/tablenameDAO(DTO).java
+/src/Tablename/tablenameDAO(DTO).java
 
 ## JSP
 /WebContents/pageType/pageName.jsp
